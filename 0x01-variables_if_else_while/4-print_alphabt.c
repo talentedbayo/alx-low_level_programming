@@ -9,7 +9,6 @@ int main(void)
 
 	e = 'e';
 	q = 'q';
-	
 	for (low = 'a'; low <= 'z'; low++)
 	{
 	if (low != e && low != q)
